@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Input/Output files
+*.pdf
+*.txt
